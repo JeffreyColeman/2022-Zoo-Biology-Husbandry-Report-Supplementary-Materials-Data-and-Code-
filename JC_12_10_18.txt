@@ -1,0 +1,53 @@
+Container Name	Plate ID	Description	ContainerType	AppType	Owner	Operator	PlateSealing	SchedulingPref				
+JC_12_10_18	JC_12_10_18		96-Well	Regular	JLC	JLC	Septa	1234				
+AppServer	AppInstance											
+GeneMapper	GeneMapper_Generic_Instance											
+Well	Sample Name	Comment	Sample Type	Snp Set	Analysis Method	Panel	User-Defined 3	Size Standard	User-Defined 2	User-Defined 1	Results Group 1	Instrument Protocol 1
+A01	KBTO_009_006B006G										GenemapperRun	G5_FragmentRun
+B01	KBTO_010_006B006G										GenemapperRun	G5_FragmentRun
+C01	KBTO_011_006B006G										GenemapperRun	G5_FragmentRun
+D01	KBTO_012_006B006G										GenemapperRun	G5_FragmentRun
+E01	KBTO_013_006B006G										GenemapperRun	G5_FragmentRun
+F01	KBTO_014_006B006G										GenemapperRun	G5_FragmentRun
+G01	KBTO_015_006B006G										GenemapperRun	G5_FragmentRun
+H01	KBTO_016_006B006G										GenemapperRun	G5_FragmentRun
+A03	KBTO_009_013B013G										GenemapperRun	G5_FragmentRun
+B03	KBTO_010_013B013G										GenemapperRun	G5_FragmentRun
+C03	KBTO_011_013B013G										GenemapperRun	G5_FragmentRun
+D03	KBTO_012_013B013G										GenemapperRun	G5_FragmentRun
+E03	KBTO_013_013B013G										GenemapperRun	G5_FragmentRun
+F03	KBTO_014_013B013G										GenemapperRun	G5_FragmentRun
+G03	KBTO_015_013B013G										GenemapperRun	G5_FragmentRun
+H03	KBTO_016_013B013G										GenemapperRun	G5_FragmentRun
+A05	KBTO_009_017B017G										GenemapperRun	G5_FragmentRun
+B05	KBTO_010_017B017G										GenemapperRun	G5_FragmentRun
+C05	KBTO_011_017B017G										GenemapperRun	G5_FragmentRun
+D05	KBTO_012_017B017G										GenemapperRun	G5_FragmentRun
+E05	KBTO_013_017B017G										GenemapperRun	G5_FragmentRun
+F05	KBTO_014_017B017G										GenemapperRun	G5_FragmentRun
+G05	KBTO_015_017B017G										GenemapperRun	G5_FragmentRun
+H05	KBTO_016_017B017G										GenemapperRun	G5_FragmentRun
+A07	KBTO_009_018B018G										GenemapperRun	G5_FragmentRun
+B07	KBTO_010_018B018G										GenemapperRun	G5_FragmentRun
+C07	KBTO_011_018B018G										GenemapperRun	G5_FragmentRun
+D07	KBTO_012_018B018G										GenemapperRun	G5_FragmentRun
+E07	KBTO_013_018B018G										GenemapperRun	G5_FragmentRun
+F07	KBTO_014_018B018G										GenemapperRun	G5_FragmentRun
+G07	KBTO_015_018B018G										GenemapperRun	G5_FragmentRun
+H07	KBTO_016_018B018G										GenemapperRun	G5_FragmentRun
+A09	KBTO_009_020B020G										GenemapperRun	G5_FragmentRun
+B09	KBTO_010_020B020G										GenemapperRun	G5_FragmentRun
+C09	KBTO_011_020B020G										GenemapperRun	G5_FragmentRun
+D09	KBTO_012_020B020G										GenemapperRun	G5_FragmentRun
+E09	KBTO_013_020B020G										GenemapperRun	G5_FragmentRun
+F09	KBTO_014_020B020G										GenemapperRun	G5_FragmentRun
+G09	KBTO_015_020B020G										GenemapperRun	G5_FragmentRun
+H09	KBTO_016_020B020G										GenemapperRun	G5_FragmentRun
+A11	KBTO_009_024B024G										GenemapperRun	G5_FragmentRun
+B11	KBTO_010_024B024G										GenemapperRun	G5_FragmentRun
+C11	KBTO_011_024B024G										GenemapperRun	G5_FragmentRun
+D11	KBTO_012_024B024G										GenemapperRun	G5_FragmentRun
+E11	KBTO_013_024B024G										GenemapperRun	G5_FragmentRun
+F11	KBTO_014_024B024G										GenemapperRun	G5_FragmentRun
+G11	KBTO_015_024B024G										GenemapperRun	G5_FragmentRun
+H11	KBTO_016_024B024G										GenemapperRun	G5_FragmentRun
