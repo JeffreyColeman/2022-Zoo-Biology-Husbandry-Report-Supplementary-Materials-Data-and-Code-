@@ -1,0 +1,809 @@
+
+___________________________________________________________________
+
+GenoDive 2.0b27, 2019-03-19 18:29:31 +0000
+Allele Frequencies.
+File: KBTOalleles
+15 of 15 individuals included, 26 of 26 loci included
+
+Total number of alleles:	123
+
+5A	4
+8A	2
+6B	2
+6C	2
+3D	3
+6D	3
+7D	4
+11	6
+10	2
+18	9
+24	4
+107	9
+112	3
+132	7
+144	6
+333	6
+330	7
+294	6
+318	2
+255	10
+222	6
+214	5
+168	2
+150	3
+167	8
+LOCUS13	2
+Total: 123
+
+- Allele frequencies per locus and per population:
+
+5A:
+Population	% missing	264	266	268	270	
+pop1	0.000	0.567	0.100	0.233	0.100
+Overall	0.000	0.567	0.100	0.233	0.100
+
+8A:
+Population	% missing	266	267	
+pop1	0.000	0.067	0.933
+Overall	0.000	0.067	0.933
+
+6B:
+Population	% missing	262	263	
+pop1	0.000	0.067	0.933
+Overall	0.000	0.067	0.933
+
+6C:
+Population	% missing	217	223	
+pop1	0.000	0.033	0.967
+Overall	0.000	0.033	0.967
+
+3D:
+Population	% missing	265	266	267	
+pop1	0.000	0.533	0.400	0.067
+Overall	0.000	0.533	0.400	0.067
+
+6D:
+Population	% missing	366	367	368	
+pop1	0.000	0.200	0.667	0.133
+Overall	0.000	0.200	0.667	0.133
+
+7D:
+Population	% missing	152	153	154	155	
+pop1	0.000	0.067	0.333	0.467	0.133
+Overall	0.000	0.067	0.333	0.467	0.133
+
+11:
+Population	% missing	306	310	314	318	322	334	
+pop1	0.000	0.100	0.500	0.067	0.067	0.233	0.033
+Overall	0.000	0.100	0.500	0.067	0.067	0.233	0.033
+
+10:
+Population	% missing	292	296	
+pop1	0.000	0.400	0.600
+Overall	0.000	0.400	0.600
+
+18:
+Population	% missing	218	222	226	230	234	238	240	242	246	
+pop1	0.000	0.033	0.100	0.167	0.333	0.233	0.033	0.033	0.033	0.033
+Overall	0.000	0.033	0.100	0.167	0.333	0.233	0.033	0.033	0.033	0.033
+
+24:
+Population	% missing	286	294	298	302	
+pop1	0.000	0.233	0.533	0.167	0.067
+Overall	0.000	0.233	0.533	0.167	0.067
+
+107:
+Population	% missing	198	206	210	214	234	238	242	246	254	
+pop1	0.000	0.200	0.300	0.100	0.033	0.067	0.133	0.033	0.033	0.100
+Overall	0.000	0.200	0.300	0.100	0.033	0.067	0.133	0.033	0.033	0.100
+
+112:
+Population	% missing	270	274	278	
+pop1	0.000	0.567	0.400	0.033
+Overall	0.000	0.567	0.400	0.033
+
+132:
+Population	% missing	146	150	154	158	162	166	170	
+pop1	0.000	0.100	0.100	0.067	0.200	0.133	0.367	0.033
+Overall	0.000	0.100	0.100	0.067	0.200	0.133	0.367	0.033
+
+144:
+Population	% missing	232	240	248	252	256	260	
+pop1	0.000	0.167	0.367	0.167	0.033	0.167	0.100
+Overall	0.000	0.167	0.367	0.167	0.033	0.167	0.100
+
+333:
+Population	% missing	336	352	360	364	368	372	
+pop1	0.000	0.433	0.067	0.100	0.100	0.033	0.267
+Overall	0.000	0.433	0.067	0.100	0.100	0.033	0.267
+
+330:
+Population	% missing	219	235	239	243	247	251	255	
+pop1	0.000	0.033	0.067	0.200	0.267	0.267	0.100	0.067
+Overall	0.000	0.033	0.067	0.200	0.267	0.267	0.100	0.067
+
+294:
+Population	% missing	334	338	342	346	350	358	
+pop1	0.000	0.100	0.100	0.500	0.133	0.133	0.033
+Overall	0.000	0.100	0.100	0.500	0.133	0.133	0.033
+
+318:
+Population	% missing	209	213	
+pop1	0.000	0.533	0.467
+Overall	0.000	0.533	0.467
+
+255:
+Population	% missing	222	230	234	246	254	258	274	278	286	290	
+pop1	0.000	0.033	0.033	0.033	0.067	0.267	0.100	0.067	0.333	0.033	0.033
+Overall	0.000	0.033	0.033	0.033	0.067	0.267	0.100	0.067	0.333	0.033	0.033
+
+222:
+Population	% missing	250	254	258	262	266	270	
+pop1	0.000	0.400	0.067	0.033	0.100	0.233	0.167
+Overall	0.000	0.400	0.067	0.033	0.100	0.233	0.167
+
+214:
+Population	% missing	160	164	168	172	176	
+pop1	0.000	0.133	0.433	0.100	0.300	0.033
+Overall	0.000	0.133	0.433	0.100	0.300	0.033
+
+168:
+Population	% missing	213	217	
+pop1	0.000	0.533	0.467
+Overall	0.000	0.533	0.467
+
+150:
+Population	% missing	261	265	269	
+pop1	0.000	0.067	0.700	0.233
+Overall	0.000	0.067	0.700	0.233
+
+167:
+Population	% missing	216	224	228	232	236	240	244	256	
+pop1	0.000	0.033	0.067	0.033	0.033	0.300	0.267	0.233	0.033
+Overall	0.000	0.033	0.067	0.033	0.033	0.300	0.267	0.233	0.033
+
+LOCUS13:
+Population	% missing	243	250	
+pop1	0.000	0.067	0.933
+Overall	0.000	0.067	0.933
+
+- Allele counts per locus and per population:
+
+5A:
+Population	Total	Missing	264	266	268	270	
+pop1	30	0	17	3	7	3
+Overall	30	0	17	3	7	3
+
+8A:
+Population	Total	Missing	266	267	
+pop1	30	0	2	28
+Overall	30	0	2	28
+
+6B:
+Population	Total	Missing	262	263	
+pop1	30	0	2	28
+Overall	30	0	2	28
+
+6C:
+Population	Total	Missing	217	223	
+pop1	30	0	1	29
+Overall	30	0	1	29
+
+3D:
+Population	Total	Missing	265	266	267	
+pop1	30	0	16	12	2
+Overall	30	0	16	12	2
+
+6D:
+Population	Total	Missing	366	367	368	
+pop1	30	0	6	20	4
+Overall	30	0	6	20	4
+
+7D:
+Population	Total	Missing	152	153	154	155	
+pop1	30	0	2	10	14	4
+Overall	30	0	2	10	14	4
+
+11:
+Population	Total	Missing	306	310	314	318	322	334	
+pop1	30	0	3	15	2	2	7	1
+Overall	30	0	3	15	2	2	7	1
+
+10:
+Population	Total	Missing	292	296	
+pop1	30	0	12	18
+Overall	30	0	12	18
+
+18:
+Population	Total	Missing	218	222	226	230	234	238	240	242	246	
+pop1	30	0	1	3	5	10	7	1	1	1	1
+Overall	30	0	1	3	5	10	7	1	1	1	1
+
+24:
+Population	Total	Missing	286	294	298	302	
+pop1	30	0	7	16	5	2
+Overall	30	0	7	16	5	2
+
+107:
+Population	Total	Missing	198	206	210	214	234	238	242	246	254	
+pop1	30	0	6	9	3	1	2	4	1	1	3
+Overall	30	0	6	9	3	1	2	4	1	1	3
+
+112:
+Population	Total	Missing	270	274	278	
+pop1	30	0	17	12	1
+Overall	30	0	17	12	1
+
+132:
+Population	Total	Missing	146	150	154	158	162	166	170	
+pop1	30	0	3	3	2	6	4	11	1
+Overall	30	0	3	3	2	6	4	11	1
+
+144:
+Population	Total	Missing	232	240	248	252	256	260	
+pop1	30	0	5	11	5	1	5	3
+Overall	30	0	5	11	5	1	5	3
+
+333:
+Population	Total	Missing	336	352	360	364	368	372	
+pop1	30	0	13	2	3	3	1	8
+Overall	30	0	13	2	3	3	1	8
+
+330:
+Population	Total	Missing	219	235	239	243	247	251	255	
+pop1	30	0	1	2	6	8	8	3	2
+Overall	30	0	1	2	6	8	8	3	2
+
+294:
+Population	Total	Missing	334	338	342	346	350	358	
+pop1	30	0	3	3	15	4	4	1
+Overall	30	0	3	3	15	4	4	1
+
+318:
+Population	Total	Missing	209	213	
+pop1	30	0	16	14
+Overall	30	0	16	14
+
+255:
+Population	Total	Missing	222	230	234	246	254	258	274	278	286	290	
+pop1	30	0	1	1	1	2	8	3	2	10	1	1
+Overall	30	0	1	1	1	2	8	3	2	10	1	1
+
+222:
+Population	Total	Missing	250	254	258	262	266	270	
+pop1	30	0	12	2	1	3	7	5
+Overall	30	0	12	2	1	3	7	5
+
+214:
+Population	Total	Missing	160	164	168	172	176	
+pop1	30	0	4	13	3	9	1
+Overall	30	0	4	13	3	9	1
+
+168:
+Population	Total	Missing	213	217	
+pop1	30	0	16	14
+Overall	30	0	16	14
+
+150:
+Population	Total	Missing	261	265	269	
+pop1	30	0	2	21	7
+Overall	30	0	2	21	7
+
+167:
+Population	Total	Missing	216	224	228	232	236	240	244	256	
+pop1	30	0	1	2	1	1	9	8	7	1
+Overall	30	0	1	2	1	1	9	8	7	1
+
+LOCUS13:
+Population	Total	Missing	243	250	
+pop1	30	0	2	28
+Overall	30	0	2	28
+
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+GenoDive 2.0b27, 2019-03-19 18:43:35 +0000
+Genetic Diversity: Nei 1987.
+File: KBTOalleles
+15 of 15 individuals included, 26 of 26 loci included
+
+- Summary of indices of genetic diversity
+
+Statistic	Value	Std.Dev.	c.i.2.5%	c.i.97.5%	Description
+Num	4.731	0.495	3.808	5.731	Number of alleles
+Eff_num	2.972	0.268	2.467	3.502	Effective number of alleles
+Ho	0.403	0.066	0.277	0.533	Observed Heterozygosity
+Hs	0.598	0.047	0.506	0.683	Heterozygosity Within Populations
+Ht	0.598	0.047	0.506	0.683	Total Heterozygosity
+H't	nan	nan	nan	nan	Corrected total Heterozygosity
+Gis	0.327	0.080	0.182	0.488	Inbreeding coefficient
+
+Standard deviations of F-statistics were obtained through jackknifing over loci.
+95% confidence intervals of F-statistics were obtained through bootstrapping over loci.
+
+
+- Indices of genetic diversity per locus
+
+Locus	Num	Eff_num	Ho	Hs	Ht	H't	Gis
+5A	4.000	2.528	0.400	0.633	0.633	inf	0.368
+8A	2.000	1.142	0.000	0.133	0.133	nan	1.000
+6B	2.000	1.142	0.000	0.133	0.133	nan	1.000
+6C	2.000	1.069	0.067	0.067	0.067	nan	0.000
+3D	3.000	2.228	0.133	0.586	0.586	nan	0.772
+6D	3.000	1.991	0.000	0.533	0.533	nan	1.000
+7D	4.000	2.848	0.000	0.695	0.695	nan	1.000
+11	6.000	3.082	0.600	0.702	0.702	nan	0.146
+10	2.000	1.923	0.133	0.510	0.510	nan	0.738
+18	9.000	4.787	0.800	0.819	0.819	inf	0.023
+24	4.000	2.695	0.400	0.660	0.660	nan	0.394
+107	9.000	5.696	0.867	0.852	0.852	nan	-0.017
+112	3.000	2.074	0.067	0.552	0.552	inf	0.879
+132	7.000	4.592	0.800	0.810	0.810	inf	0.012
+144	6.000	4.369	0.333	0.814	0.814	nan	0.591
+333	6.000	3.516	0.667	0.743	0.743	nan	0.103
+330	7.000	4.945	0.733	0.829	0.829	nan	0.115
+294	6.000	3.261	0.600	0.721	0.721	nan	0.168
+318	2.000	1.991	0.133	0.529	0.529	nan	0.748
+255	10.000	4.839	1.000	0.814	0.814	nan	-0.228
+222	6.000	3.879	0.667	0.771	0.771	nan	0.136
+214	5.000	3.261	0.667	0.719	0.719	nan	0.073
+168	2.000	1.991	0.133	0.529	0.529	nan	0.748
+150	3.000	1.822	0.200	0.476	0.476	nan	0.580
+167	8.000	4.455	0.933	0.798	0.798	nan	-0.170
+LOCUS13	2.000	1.142	0.133	0.129	0.129	nan	-0.037
+Overall	4.731	2.972	0.403	0.598	0.598	nan	0.327
+
+
+- Indices of genetic diversity per population
+
+Population	Num	Eff_num	Ho	Hs	Ht	H't	Gis
+pop1	4.731	2.972	0.403	0.598	0.598	---	0.327
+
+
+___________________________________________________________________
+___________________________________________________________________
+
+GenoDive 2.0b27, 2019-03-19 18:53:17 +0000
+Hardy-Weinberg.
+File: KBTOalleles
+15 of 15 individuals included, 26 of 26 loci included
+
+- Values of G_is per population and per locus:
+
+Population	5A	8A	6B	6C	3D	6D	7D	11	10	18	24	107	112	132	144	333	330	294	318	255	222	214	168	150	167	LOCUS13	Multi-locus
+pop1	0.368	1.000	1.000	0.000	0.772	1.000	1.000	0.146	0.738	0.023	0.394	-0.017	0.879	0.012	0.591	0.103	0.115	0.168	0.748	-0.228	0.136	0.073	0.748	0.580	-0.170	-0.037	0.327
+
+
+- One-sided p-values of G_is per population and per locus:
+
+Population	5A	8A	6B	6C	3D	6D	7D	11	10	18	24	107	112	132	144	333	330	294	318	255	222	214	168	150	167	LOCUS13	Multi-locus
+pop1	0.034	0.020	0.029	1.001	0.002	0.001	0.001	0.242	0.011	0.547	0.024	0.612	0.001	0.574	0.001	0.347	0.257	0.189	0.007	0.033	0.215	0.399	0.008	0.014	0.168	0.966	0.001
+
+
+
+___________________________________________________________________
+___________________________________________________________________
+
+GenoDive 2.0b27, 2019-03-19 18:53:17 +0000
+Hardy-Weinberg.
+File: KBTOalleles
+15 of 15 individuals included, 26 of 26 loci included
+
+- Values of G_is per population and per locus:
+
+Population	5A	8A	6B	6C	3D	6D	7D	11	10	18	24	107	112	132	144	333	330	294	318	255	222	214	168	150	167	LOCUS13	Multi-locus
+pop1	0.368	1.000	1.000	0.000	0.772	1.000	1.000	0.146	0.738	0.023	0.394	-0.017	0.879	0.012	0.591	0.103	0.115	0.168	0.748	-0.228	0.136	0.073	0.748	0.580	-0.170	-0.037	0.327
+
+
+- One-sided p-values of G_is per population and per locus:
+
+Population	5A	8A	6B	6C	3D	6D	7D	11	10	18	24	107	112	132	144	333	330	294	318	255	222	214	168	150	167	LOCUS13	Multi-locus
+pop1	0.034	0.020	0.029	1.001	0.002	0.001	0.001	0.242	0.011	0.547	0.024	0.612	0.001	0.574	0.001	0.347	0.257	0.189	0.007	0.033	0.215	0.399	0.008	0.014	0.168	0.966	0.001
+
+
+
+___________________________________________________________________
+___________________________________________________________________
+
+GenoDive 2.0b27, 2019-09-04 22:49:58 +0000
+Allele Frequencies.
+File: KBTOalleles.gtx
+15 of 15 individuals included, 26 of 26 loci included
+
+Total number of alleles:	123
+
+5A	4
+8A	2
+6B	2
+6C	2
+3D	3
+6D	3
+7D	4
+11	6
+10	2
+18	9
+24	4
+107	9
+112	3
+132	7
+144	6
+333	6
+330	7
+294	6
+318	2
+255	10
+222	6
+214	5
+168	2
+150	3
+167	8
+LOS13	2
+Total: 123
+
+- Allele frequencies per locus and per population:
+
+5A:
+Population	% missing	264	266	268	270	
+pop1	0.000	0.567	0.100	0.233	0.100
+Overall	0.000	0.567	0.100	0.233	0.100
+
+8A:
+Population	% missing	266	267	
+pop1	0.000	0.067	0.933
+Overall	0.000	0.067	0.933
+
+6B:
+Population	% missing	262	263	
+pop1	0.000	0.067	0.933
+Overall	0.000	0.067	0.933
+
+6C:
+Population	% missing	217	223	
+pop1	0.000	0.033	0.967
+Overall	0.000	0.033	0.967
+
+3D:
+Population	% missing	265	266	267	
+pop1	0.000	0.533	0.400	0.067
+Overall	0.000	0.533	0.400	0.067
+
+6D:
+Population	% missing	366	367	368	
+pop1	0.000	0.200	0.667	0.133
+Overall	0.000	0.200	0.667	0.133
+
+7D:
+Population	% missing	152	153	154	155	
+pop1	0.000	0.067	0.333	0.467	0.133
+Overall	0.000	0.067	0.333	0.467	0.133
+
+11:
+Population	% missing	306	310	314	318	322	334	
+pop1	0.000	0.100	0.500	0.067	0.067	0.233	0.033
+Overall	0.000	0.100	0.500	0.067	0.067	0.233	0.033
+
+10:
+Population	% missing	292	296	
+pop1	0.000	0.400	0.600
+Overall	0.000	0.400	0.600
+
+18:
+Population	% missing	218	222	226	230	234	238	240	242	246	
+pop1	0.000	0.033	0.100	0.167	0.333	0.233	0.033	0.033	0.033	0.033
+Overall	0.000	0.033	0.100	0.167	0.333	0.233	0.033	0.033	0.033	0.033
+
+24:
+Population	% missing	286	294	298	302	
+pop1	0.000	0.233	0.533	0.167	0.067
+Overall	0.000	0.233	0.533	0.167	0.067
+
+107:
+Population	% missing	198	206	210	214	234	238	242	246	254	
+pop1	0.000	0.200	0.300	0.100	0.033	0.067	0.133	0.033	0.033	0.100
+Overall	0.000	0.200	0.300	0.100	0.033	0.067	0.133	0.033	0.033	0.100
+
+112:
+Population	% missing	270	274	278	
+pop1	0.000	0.567	0.400	0.033
+Overall	0.000	0.567	0.400	0.033
+
+132:
+Population	% missing	146	150	154	158	162	166	170	
+pop1	0.000	0.100	0.100	0.067	0.200	0.133	0.367	0.033
+Overall	0.000	0.100	0.100	0.067	0.200	0.133	0.367	0.033
+
+144:
+Population	% missing	232	240	248	252	256	260	
+pop1	0.000	0.167	0.367	0.167	0.033	0.167	0.100
+Overall	0.000	0.167	0.367	0.167	0.033	0.167	0.100
+
+333:
+Population	% missing	336	352	360	364	368	372	
+pop1	0.000	0.433	0.067	0.100	0.100	0.033	0.267
+Overall	0.000	0.433	0.067	0.100	0.100	0.033	0.267
+
+330:
+Population	% missing	219	235	239	243	247	251	255	
+pop1	0.000	0.033	0.067	0.200	0.267	0.267	0.100	0.067
+Overall	0.000	0.033	0.067	0.200	0.267	0.267	0.100	0.067
+
+294:
+Population	% missing	334	338	342	346	350	358	
+pop1	0.000	0.100	0.100	0.500	0.133	0.133	0.033
+Overall	0.000	0.100	0.100	0.500	0.133	0.133	0.033
+
+318:
+Population	% missing	209	213	
+pop1	0.000	0.533	0.467
+Overall	0.000	0.533	0.467
+
+255:
+Population	% missing	222	230	234	246	254	258	274	278	286	290	
+pop1	0.000	0.033	0.033	0.033	0.067	0.267	0.100	0.067	0.333	0.033	0.033
+Overall	0.000	0.033	0.033	0.033	0.067	0.267	0.100	0.067	0.333	0.033	0.033
+
+222:
+Population	% missing	250	254	258	262	266	270	
+pop1	0.000	0.400	0.067	0.033	0.100	0.233	0.167
+Overall	0.000	0.400	0.067	0.033	0.100	0.233	0.167
+
+214:
+Population	% missing	160	164	168	172	176	
+pop1	0.000	0.133	0.433	0.100	0.300	0.033
+Overall	0.000	0.133	0.433	0.100	0.300	0.033
+
+168:
+Population	% missing	213	217	
+pop1	0.000	0.533	0.467
+Overall	0.000	0.533	0.467
+
+150:
+Population	% missing	261	265	269	
+pop1	0.000	0.067	0.700	0.233
+Overall	0.000	0.067	0.700	0.233
+
+167:
+Population	% missing	216	224	228	232	236	240	244	256	
+pop1	0.000	0.033	0.067	0.033	0.033	0.300	0.267	0.233	0.033
+Overall	0.000	0.033	0.067	0.033	0.033	0.300	0.267	0.233	0.033
+
+LOS13:
+Population	% missing	243	250	
+pop1	0.000	0.067	0.933
+Overall	0.000	0.067	0.933
+
+- Allele counts per locus and per population:
+
+5A:
+Population	Total	Missing	264	266	268	270	
+pop1	30	0	17	3	7	3
+Overall	30	0	17	3	7	3
+
+8A:
+Population	Total	Missing	266	267	
+pop1	30	0	2	28
+Overall	30	0	2	28
+
+6B:
+Population	Total	Missing	262	263	
+pop1	30	0	2	28
+Overall	30	0	2	28
+
+6C:
+Population	Total	Missing	217	223	
+pop1	30	0	1	29
+Overall	30	0	1	29
+
+3D:
+Population	Total	Missing	265	266	267	
+pop1	30	0	16	12	2
+Overall	30	0	16	12	2
+
+6D:
+Population	Total	Missing	366	367	368	
+pop1	30	0	6	20	4
+Overall	30	0	6	20	4
+
+7D:
+Population	Total	Missing	152	153	154	155	
+pop1	30	0	2	10	14	4
+Overall	30	0	2	10	14	4
+
+11:
+Population	Total	Missing	306	310	314	318	322	334	
+pop1	30	0	3	15	2	2	7	1
+Overall	30	0	3	15	2	2	7	1
+
+10:
+Population	Total	Missing	292	296	
+pop1	30	0	12	18
+Overall	30	0	12	18
+
+18:
+Population	Total	Missing	218	222	226	230	234	238	240	242	246	
+pop1	30	0	1	3	5	10	7	1	1	1	1
+Overall	30	0	1	3	5	10	7	1	1	1	1
+
+24:
+Population	Total	Missing	286	294	298	302	
+pop1	30	0	7	16	5	2
+Overall	30	0	7	16	5	2
+
+107:
+Population	Total	Missing	198	206	210	214	234	238	242	246	254	
+pop1	30	0	6	9	3	1	2	4	1	1	3
+Overall	30	0	6	9	3	1	2	4	1	1	3
+
+112:
+Population	Total	Missing	270	274	278	
+pop1	30	0	17	12	1
+Overall	30	0	17	12	1
+
+132:
+Population	Total	Missing	146	150	154	158	162	166	170	
+pop1	30	0	3	3	2	6	4	11	1
+Overall	30	0	3	3	2	6	4	11	1
+
+144:
+Population	Total	Missing	232	240	248	252	256	260	
+pop1	30	0	5	11	5	1	5	3
+Overall	30	0	5	11	5	1	5	3
+
+333:
+Population	Total	Missing	336	352	360	364	368	372	
+pop1	30	0	13	2	3	3	1	8
+Overall	30	0	13	2	3	3	1	8
+
+330:
+Population	Total	Missing	219	235	239	243	247	251	255	
+pop1	30	0	1	2	6	8	8	3	2
+Overall	30	0	1	2	6	8	8	3	2
+
+294:
+Population	Total	Missing	334	338	342	346	350	358	
+pop1	30	0	3	3	15	4	4	1
+Overall	30	0	3	3	15	4	4	1
+
+318:
+Population	Total	Missing	209	213	
+pop1	30	0	16	14
+Overall	30	0	16	14
+
+255:
+Population	Total	Missing	222	230	234	246	254	258	274	278	286	290	
+pop1	30	0	1	1	1	2	8	3	2	10	1	1
+Overall	30	0	1	1	1	2	8	3	2	10	1	1
+
+222:
+Population	Total	Missing	250	254	258	262	266	270	
+pop1	30	0	12	2	1	3	7	5
+Overall	30	0	12	2	1	3	7	5
+
+214:
+Population	Total	Missing	160	164	168	172	176	
+pop1	30	0	4	13	3	9	1
+Overall	30	0	4	13	3	9	1
+
+168:
+Population	Total	Missing	213	217	
+pop1	30	0	16	14
+Overall	30	0	16	14
+
+150:
+Population	Total	Missing	261	265	269	
+pop1	30	0	2	21	7
+Overall	30	0	2	21	7
+
+167:
+Population	Total	Missing	216	224	228	232	236	240	244	256	
+pop1	30	0	1	2	1	1	9	8	7	1
+Overall	30	0	1	2	1	1	9	8	7	1
+
+LOS13:
+Population	Total	Missing	243	250	
+pop1	30	0	2	28
+Overall	30	0	2	28
+
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+GenoDive 2.0b27, 2019-09-04 22:51:03 +0000
+Genetic Diversity: Nei 1987.
+File: KBTOalleles.gtx
+15 of 15 individuals included, 8 of 26 loci included
+
+- Summary of indices of genetic diversity
+
+Statistic	Value	Std.Dev.	c.i.2.5%	c.i.97.5%	Description
+Num	2.750	0.313	2.250	3.375	Number of alleles
+Eff_num	1.761	0.256	1.306	2.246	Effective number of alleles
+Ho	0.092	0.049	0.017	0.192	Observed Heterozygosity
+Hs	0.364	0.095	0.182	0.542	Heterozygosity Within Populations
+Ht	0.364	0.095	0.182	0.542	Total Heterozygosity
+H't	nan	nan	nan	nan	Corrected total Heterozygosity
+Gis	0.748	0.141	0.480	0.952	Inbreeding coefficient
+
+Standard deviations of F-statistics were obtained through jackknifing over loci.
+95% confidence intervals of F-statistics were obtained through bootstrapping over loci.
+
+
+- Indices of genetic diversity per locus
+
+Locus	Num	Eff_num	Ho	Hs	Ht	H't	Gis
+5A	4.000	2.528	0.400	0.633	0.633	inf	0.368
+8A	2.000	1.142	0.000	0.133	0.133	nan	1.000
+6B	2.000	1.142	0.000	0.133	0.133	nan	1.000
+6C	2.000	1.069	0.067	0.067	0.067	nan	0.000
+3D	3.000	2.228	0.133	0.586	0.586	nan	0.772
+6D	3.000	1.991	0.000	0.533	0.533	nan	1.000
+7D	4.000	2.848	0.000	0.695	0.695	nan	1.000
+LOS13	2.000	1.142	0.133	0.129	0.129	nan	-0.037
+Overall	2.750	1.761	0.092	0.364	0.364	nan	0.748
+
+
+- Indices of genetic diversity per population
+
+Population	Num	Eff_num	Ho	Hs	Ht	H't	Gis
+pop1	2.750	1.761	0.092	0.364	0.364	---	0.748
+
+
+___________________________________________________________________
+
+___________________________________________________________________
+
+GenoDive 2.0b27, 2019-09-04 22:54:01 +0000
+Genetic Diversity: Nei 1987.
+File: KBTOalleles.gtx
+15 of 15 individuals included, 18 of 26 loci included
+
+- Summary of indices of genetic diversity
+
+Statistic	Value	Std.Dev.	c.i.2.5%	c.i.97.5%	Description
+Num	5.611	0.595	4.500	6.722	Number of alleles
+Eff_num	3.510	0.293	2.952	4.063	Effective number of alleles
+Ho	0.541	0.072	0.400	0.674	Observed Heterozygosity
+Hs	0.703	0.030	0.643	0.758	Heterozygosity Within Populations
+Ht	0.703	0.030	0.643	0.758	Total Heterozygosity
+H't	nan	nan	nan	nan	Corrected total Heterozygosity
+Gis	0.230	0.075	0.099	0.386	Inbreeding coefficient
+
+Standard deviations of F-statistics were obtained through jackknifing over loci.
+95% confidence intervals of F-statistics were obtained through bootstrapping over loci.
+
+
+- Indices of genetic diversity per locus
+
+Locus	Num	Eff_num	Ho	Hs	Ht	H't	Gis
+11	6.000	3.082	0.600	0.702	0.702	nan	0.146
+10	2.000	1.923	0.133	0.510	0.510	nan	0.738
+18	9.000	4.787	0.800	0.819	0.819	inf	0.023
+24	4.000	2.695	0.400	0.660	0.660	nan	0.394
+107	9.000	5.696	0.867	0.852	0.852	nan	-0.017
+112	3.000	2.074	0.067	0.552	0.552	inf	0.879
+132	7.000	4.592	0.800	0.810	0.810	inf	0.012
+144	6.000	4.369	0.333	0.814	0.814	nan	0.591
+333	6.000	3.516	0.667	0.743	0.743	nan	0.103
+330	7.000	4.945	0.733	0.829	0.829	nan	0.115
+294	6.000	3.261	0.600	0.721	0.721	nan	0.168
+318	2.000	1.991	0.133	0.529	0.529	nan	0.748
+255	10.000	4.839	1.000	0.814	0.814	nan	-0.228
+222	6.000	3.879	0.667	0.771	0.771	nan	0.136
+214	5.000	3.261	0.667	0.719	0.719	nan	0.073
+168	2.000	1.991	0.133	0.529	0.529	nan	0.748
+150	3.000	1.822	0.200	0.476	0.476	nan	0.580
+167	8.000	4.455	0.933	0.798	0.798	nan	-0.170
+Overall	5.611	3.510	0.541	0.703	0.703	nan	0.230
+
+
+- Indices of genetic diversity per population
+
+Population	Num	Eff_num	Ho	Hs	Ht	H't	Gis
+pop1	5.611	3.510	0.541	0.703	0.703	---	0.230
+
+
+___________________________________________________________________
