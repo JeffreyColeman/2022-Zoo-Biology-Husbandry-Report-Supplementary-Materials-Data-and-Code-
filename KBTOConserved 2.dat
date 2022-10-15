@@ -1,0 +1,87 @@
+'KBTOConserved.dat'  
+'KBTOConservedOutput'  
+2          ! Number of offspring in the sample
+8           ! Number of loci
+1234        ! Seed for random number generator
+0           ! 0/1=Not updating/updating allele frequency
+2           ! 2/1=Dioecious/Monoecious species
+0           ! 0/1=No inbreeding/inbreeding
+0           ! 0/1=Diploid species/HaploDiploid species
+0  0        ! 0/1=Polygamy/Monogamy for males & females
+0           ! 0/1=Clone inference =No/Yes
+1           ! 0/1=Full sibship size scaling =No/Yes
+1 1.0 1.0   ! 0,1,2,3=No,weak,medium,strong sibship size prior; mean paternal & meteral sibship size
+1           ! 0/1=Unknown/Known population allele frequency
+4 2 2 2 3 3 4 2  !Number of alleles per locus
+     264     266     268     270      
+  0.5670  0.1000  0.2330  0.1000  
+     266     267    
+  0.0670  0.9330  
+     262     263       
+  0.0670  0.9330  
+     217     223   
+  0.0330  0.9670  
+     265     266     267      
+  0.5330  0.4000  0.0670
+     366     367     368      
+  0.2000  0.6670  0.1330
+     152     153     154     155     
+  0.0670  0.3330  0.4670  0.1330  
+     243     250    
+  0.0670  0.9330  
+
+1         ! Number of runs
+2         ! Length of run
+0         ! 0/1=Monitor method by Iterate#/Time in second
+100000    ! Monitor interval in Iterate# / in seconds
+0         ! non-Windows version
+1         ! Fulllikelihood
+3         ! 1/2/3=low/medium/high Precision for Fulllikelihood
+
+5A,8A,6B,6C,3D,6D,7D,13          
+0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0
+0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005
+       
+KBTO10  264 264 267 267 263 263 223 223 265 265 368 368 155 155 250 250
+KBTO11  264 270 267 267 263 263 223 223 265 265 367 367 153 153 250 250
+
+1   1    !prob. of dad/mum included in the candidates
+7   6       !numbers of candiadte males & females
+
+M1  264 264 267 267 263 263 223 223 265 265 367 367 154 154 250 250
+M2  266 270 267 267 263 263 223 223 265 267 367 367 154 154 250 250
+M3  268 268 267 267 263 263 223 223 266 266 367 367 153 153 250 250
+M4  268 268 267 267 262 262 223 223 265 267 366 366 153 153 250 250
+M5  264 264 267 267 263 263 223 223 266 266 367 367 154 154 250 250 
+M6  264 264 267 267 263 263 223 223 266 266 367 367 154 154 250 250
+M7  264 264 267 267 263 263 223 223 266 266 366 366 154 154 243 250
+   
+F1  264 268 267 267 263 263 217 223 266 266 367 367 154 154 250 250
+F2  264 268 267 267 263 263 223 223 266 266 366 366 154 154 243 250
+F3  264 264 266 266 263 263 223 223 265 265 367 367 152 152 250 250 
+F4  264 268 267 267 263 263 223 223 265 265 367 367 155 155 250 250
+F5  264 270 267 267 263 263 223 223 265 265 368 368 153 153 250 250
+F6  266 266 267 267 263 263 223 223 265 265 367 367 153 153 250 250
+   
+0.0  0.0  
+0  0
+
+
+0  0
+
+0  0
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+

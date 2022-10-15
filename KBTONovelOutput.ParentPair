@@ -1,0 +1,4 @@
+OffspringID,InferredDad,InferredMum,Probability
+KBTO10,M2,F5, 0.9550
+KBTO10,*,F5, 0.0444
+KBTO11,M2,F5, 0.9981
