@@ -1,0 +1,20 @@
+Processing paired-end data.
+Using Phred+33 encoding for quality scores.
+Found 1 paired input file(s).
+Searching for single and paired-end, inlined barcodes.
+Loaded 39 barcodes (7-10bp / 7-10bp).
+Will attempt to recover barcodes with at most 1 / 1 mismatches.
+Processing file 1 of 1 [Undetermined_S0_L001_R1_001.fastq.gz]
+  Reading data from:
+  /Users/jeffreylernercoleman/Desktop/KBTO/stacks-2.5/jeff/Undetermined_S0_L001_R1_001.fastq.gz and
+  /Users/jeffreylernercoleman/Desktop/KBTO/stacks-2.5/jeff/Undetermined_S0_L001_R2_001.fastq.gz
+  Processing RAD-Tags...1M...2M...3M...4M...
+  8380018 total reads; -6301962 ambiguous barcodes; -701136 ambiguous RAD-Tags; +1592368 recovered; -501682 low quality reads; 875238 retained reads.
+Closing files, flushing buffers...
+Outputing details to log: './samples/process_radtags.jeff.log'
+
+8380018 total sequences
+6301962 barcode not found drops (75.2%)
+ 501682 low quality read drops (6.0%)
+ 701136 RAD cutsite not found drops (8.4%)
+ 875238 retained reads (10.4%)
