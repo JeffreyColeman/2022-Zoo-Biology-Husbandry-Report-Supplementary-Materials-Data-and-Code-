@@ -1,0 +1,29 @@
+denovo_map.pl version 2.5 started at 2020-02-06 15:15:51
+/usr/local/bin/denovo_map.pl -M 1 -o ./stacks.M1 --popmap /Users/jeffreylernercoleman/Desktop/KBTO/RadSEQ/stacks-2.5/jeff/popmap.tsv --samples /Users/jeffreylernercoleman/Desktop/KBTO/RadSEQ/stacks-2.5/jeff/cleaned -X ustacks:--force-diff-len
+
+ustacks
+==========
+
+Sample 1 of 15 'sample_25'
+----------
+/usr/local/bin/ustacks -t gzfastq -f /Users/jeffreylernercoleman/Desktop/KBTO/RadSEQ/stacks-2.5/jeff/cleaned/sample_25.1.fq.gz -o ./stacks.M1 -i 1 --name sample_25 -M 1 --force-diff-len
+ustacks parameters selected:
+  Input file: '/Users/jeffreylernercoleman/Desktop/KBTO/RadSEQ/stacks-2.5/jeff/cleaned/sample_25.1.fq.gz'
+  Sample ID: 1
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 1
+  Max distance allowed to align secondary reads: 3
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+  Forcing the allowance of sequences of different length.
+
+Loading RAD-Tags...
+Warning: different sequence lengths detected, this could interfere with Stacks algorithms.
+Error: Unable to form any primary stacks.
+
+denovo_map.pl: Aborted because the last command failed (1).
