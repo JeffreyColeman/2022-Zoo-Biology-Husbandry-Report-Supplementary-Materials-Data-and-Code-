@@ -3,7 +3,7 @@ Contained in this directory are supplemental materials for Coleman et al. (2023)
 
 The third-to-last sentence of the abstract of the paper should read, "Zoo researchers seeking microsatellite primer sets for their breeding toucan populations will likely benefit from our NOVEL markers, which can be leveraged both to assess relatedness and select breeding pairs."
 
-Readers may observe that there is no annealing temperature (Ta) information for novel primers. Go ahead and use the PCR and touchdown thermal cycler conditions described in the paper, which should be effective for msat amplification + genotyping. This is a cure-all recipe. 
+Readers may observe that there is no annealing temperature (Ta) information for novel primers. Go ahead and use the touchdown thermal cycler conditions described in the paper, which should be effective for msat amplification + genotyping.  
 
 The most important directory in this repository for readers of Coleman et al. (2023) is likely to be that named "KBTO Genotype", which lists  alleles (i.e., allele sizes) for the novel and heterologous loci in the study. This is especially useful given that Tables 2 and 3 in the publication do not list size ranges for the loci. There are duplicate files for all locus allele lists. 
 
