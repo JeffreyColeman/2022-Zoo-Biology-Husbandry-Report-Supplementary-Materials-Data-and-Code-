@@ -1,5 +1,5 @@
 # 2022-Zoo-Biology-Husbandry-Report-Supplementary-Materials-Data-and-Code-
-This directory contains supplemental materials for Coleman et al. (2023) in Zoo Biology.  
+This repository is the first of four that contains supplemental materials for Coleman et al. (2023) in Zoo Biology.  
 
 The most important directory in this repository for readers of Coleman et al. (2023) is likely to be that named "KBTO Genotype" (re-attached here: [KBTO.Genotypes (1).xlsx](https://github.com/JeffreyColeman/2022-Zoo-Biology-Husbandry-Report-Supplementary-Materials-Data-and-Code-/files/11861106/KBTO.Genotypes.1.xlsx)) which lists  alleles (i.e., allele sizes) for the novel and heterologous loci in the study. This is especially useful given that Table 2 in the publication does not list size ranges for the novel loci. For the novel primer sets, if folks want annealing temperatures, number of repeats of the AGAT motif, or for us to upload sequences w/accession numbers to GenBank for the novel loci, please ask.  
 
